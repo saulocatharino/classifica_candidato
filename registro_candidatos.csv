@@ -1,0 +1,17 @@
+Nome,Nota,DinamicadeGrupo,Agressividade,MediaAvaliacao,ErrosPraticos,Recomenda
+Henrique,Excelente,Sim,Sim,90,5,Sim
+Vanessa,Excelente,Sim,Sim,81,4,Sim
+Rodrigo,Excelente,Sim,Sim,92,0,Sim
+Paulo,Excelente,Sim,Sim,90,4,Sim
+Carla,Excelente,Sim,Sim,93,2,Sim
+Maria,Excelente,Sim,Sim,99,2,Sim
+Thalita,Alta,Sim,Sim,90,7,Sim
+João,Média,Não,Sim,85,11,Não
+Davi,Péssima,Não,Sim,70,17,Não
+Rafael,Alta,Sim,Não,95,11,Não
+Marcelo,Ruim,Não,Sim,60,10,Não
+Roberto,Boa,Sim,Não,60,19,Não
+Caio,Excelente,Sim,Sim,75,19,Não
+Fernando,Media,Não,Sim,87,10,Não
+Flavia,Média,Sim,Sim,92,11,Não
+Claudia,Alta,Não,Sim,91,18,Não
